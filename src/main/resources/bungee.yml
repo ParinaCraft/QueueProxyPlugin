@@ -1,0 +1,7 @@
+name: QueueProxyPlugin
+version: 1.0
+description: Who wanna play games?
+author: isokissa3
+website: https://joniaromaa.fi
+
+main: fi.joniaromaa.queueproxyplugin.QueueProxyPlugin
